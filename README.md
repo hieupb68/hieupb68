@@ -1,5 +1,5 @@
 
-## 📊 Hi there!
+## Hi there!
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=hieupb68.hieupb68)
 
